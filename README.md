@@ -11,8 +11,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" title="Bootstrap" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/></a>
-  <a href="https://expressjs.com"><img align="left" alt="Express" title="Express (NodeJS HTTP Framework)" width="21px" src="https://www.google.com/imgres?q=logo%20express.js&imgurl=https%3A%2F%2Fgithub.com%2Fexpressjs.png&imgrefurl=https%3A%2F%2Fexpressjs.com%2Fen%2Fblog%2F2026-05-18-a-new-look-for-express%2F&docid=rsOmxD004ODU0M&tbnid=tL8bXIYFcEdYoM&vet=12ahUKEwiBvYuijpiWAxVyxjgGHXgQGSgQnPAOegUIggIQAA..i&w=460&h=460&hcb=2&ved=2ahUKEwiBvYuijpiWAxVyxjgGHXgQGSgQnPAOegUIggIQAA" /></a>
+  <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" title="Bootstrap" width="21px" src="https://expressjs.com/en/blog/2026-05-18-a-new-look-for-express/" /></a>
   <br>
   <br>
 
