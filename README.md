@@ -11,7 +11,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" title="Bootstrap" width="21px" src="https://expressjs.com/en/blog/2026-05-18-a-new-look-for-express/" /></a>
+  <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" title="Bootstrap" width="21px" src="http://www.w3.org/2000/svg" /></a>
   <br>
   <br>
 
